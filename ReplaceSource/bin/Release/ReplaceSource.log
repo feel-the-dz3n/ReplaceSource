@@ -1,0 +1,8 @@
+Folder 1: folder number one
+Folder 2: folder number two
+file1.txt [folder number one] 31.10.2018 17:19:21 = [folder number two] 31.10.2018 17:19:21
+file2.txt [folder number one] 31.10.2018 17:20:55 = [folder number two] 31.10.2018 17:20:55
+file3.txt [folder number one] 31.10.2018 17:21:02 = [folder number two] 31.10.2018 17:21:02
+file4.txt [folder number one] 31.10.2018 17:19:21 = [folder number two] 31.10.2018 17:19:21
+file5.txt [folder number one] 31.10.2018 17:20:57 = [folder number two] 31.10.2018 17:20:57
+Done
